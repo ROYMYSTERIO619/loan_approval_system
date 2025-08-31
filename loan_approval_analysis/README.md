@@ -1,5 +1,4 @@
 # LOAN APPROVAL ANALYSIS
-![Screenshot (34)](https://github.com/shamitha29/loan_approval_analysis/assets/76781942/bcfacd0e-fb68-4464-b338-d75530f2182f)
 # Abstract
 In our banking system, banks have many products to sell but main source of income of any banks is on its credit line. So they can earn from interest of those loans which they credits.A bank's profit or a loss depends to a large extent on loans i.e. whether the customers are paying back the loan or defaulting. By predicting the loan defaulters, the bank can reduce its Non- Performing Assets. This makes the study of this phenomenon very important. Previous research in this era has shown that there are so many methods to study the problem of controlling loan default. But as the right predictions are very important for the maximization of profits, it is essential to study the nature of the different methods and their comparison. A very important approach in predictive analytics is used to study the problem of predicting loan defaulters: The Logistic regression model. The data is collected from the Kaggle for studying and prediction. By using a logistic regression approach, the right customers to be targeted for granting loan can be easily detected by evaluating their likelihood of default on loan. 
 
@@ -32,3 +31,4 @@ Bi-Variate analysis : This type of data involves two different variables. The an
 # Dataset 
 
 ![Screenshot (35)](https://github.com/shamitha29/loan_approval_analysis/assets/76781942/09f35f0a-2174-4cb8-82c1-8e51f58870d2)
+
